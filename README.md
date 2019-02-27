@@ -8,7 +8,7 @@ If it is your first time with Back4App, [create a account](https://www.back4app.
 
 #### Step 1.1 - Replace Keys
 
-Don't forget to paste your Back4App App ID and Javascript Key in the `./backend/app.js` file.
+Don't forget to paste your Back4App App ID and Javascript Key in the `.env` file.
 
 #### Step 1.2 - Import template class
 
